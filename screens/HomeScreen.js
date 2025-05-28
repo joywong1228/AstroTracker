@@ -17,6 +17,12 @@ export default function HomeScreen({ navigation }) {
                 title="🔭 Sky Map"
                 onPress={() => navigation.navigate('Sky Map')}
             />
+
+            <PlaceholderCard
+                title="📅 Calendar"
+                onPress={() => navigation.navigate('Calendar')}
+            />
+
             <PlaceholderCard
                 title="🌐 Related Websites"
                 onPress={() => navigation.navigate('Related Websites')}

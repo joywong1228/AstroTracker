@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Supermoon",
+    "date": "2025-08-19",
+    "description": "The full moon will be at its closest approach to Earth."
+  },
+  {
+    "title": "Total Lunar Eclipse",
+    "date": "2025-09-07",
+    "description": "A total lunar eclipse will be visible in parts of the world."
+  },
+  {
+    "title": "Meteor Shower Peak",
+    "date": "2025-01-03",
+    "description": "The Quadrantid meteor shower will peak, with up to 120 meteors per hour."
+  },
+  {
+    "title": "Spring Equinox",
+    "date": "2025-03-20",
+    "description": "The day when day and night are approximately equal in length."
+  },
+  {
+    "title": "Summer Solstice",
+    "date": "2025-06-21",
+    "description": "The longest day and shortest night of the year in the Northern Hemisphere."
+  },
+  {
+    "title": "Harvest Moon",
+    "date": "2025-09-29",
+    "description": "The full moon closest to the autumnal equinox, providing extra light for harvests."
+  },
+  {
+    "title": "Meteor Shower Peak",
+    "date": "2025-08-12",
+    "description": "The Perseid meteor shower will peak, with up to 100 meteors per hour."
+  },
+  {
+    "title": "Perseid Meteor Shower Peak",
+    "date": "2025-08-12",
+    "description": "Expect up to 100 meteors per hour in dark sky conditions."
+  },
+    {
+        "title": "Autumnal Equinox",
+        "date": "2025-09-23",
+        "description": "The day when day and night are approximately equal in length."
+    },
+    {
+        "title": "Total Solar Eclipse",
+        "date": "2025-04-08",
+        "description": "A total solar eclipse will be visible across parts of North America."
+    },
+    {
+        "title": "Lunar Eclipse",
+        "date": "2025-05-15",
+        "description": "A penumbral lunar eclipse will be visible in parts of the world."
+    },
+    {
+        "title": "Winter Solstice",
+        "date": "2025-12-21",
+        "description": "The shortest day and longest night of the year in the Northern Hemisphere."
+    },
+    {
+        "title": "Total Solar Eclipse",
+        "date": "2025-04-08",
+        "description": "A total solar eclipse will be visible across parts of North America."
+    },
+    {
+        "title": "Winter Solstice",
+        "date": "2025-12-21",
+        "description": "The shortest day and longest night of the year in the Northern Hemisphere."
+    },
+    {
+        "title": "Spring Equinox",
+        "date": "2025-03-20",
+        "description": "The day when day and night are approximately equal in length."
+    },
+    {
+        "title": "Lunar Eclipse",
+        "date": "2025-05-15",
+        "description": "A penumbral lunar eclipse will be visible in parts of the world."
+    },
+    {
+        "title": "Summer Solstice",
+        "date": "2025-06-21",
+        "description": "The longest day and shortest night of the year in the Northern Hemisphere."
+    },
+    {
+        "title": "Gemini Meteor Shower Peak",
+        "date": "2025-12-14",
+        "description": "One of the most reliable meteor showers, with up to 120 meteors per hour."
+    },
+    {
+        "title": "Lyrid Meteor Shower Peak",
+        "date": "2025-04-22",
+        "description": "A meteor shower that can produce up to 20 meteors per hour."
+    },
+    {
+        "title": "Orionid Meteor Shower Peak",
+        "date": "2025-10-21",
+        "description": "A meteor shower associated with Halley's Comet, producing about 20 meteors per hour."
+    },
+    {
+        "title": "Quadrantid Meteor Shower Peak",
+        "date": "2025-01-04",
+        "description": "A meteor shower that can produce up to 120 meteors per hour, best viewed in the early morning hours."
+    },
+    {
+        "title": "Leonid Meteor Shower Peak",
+        "date": "2025-11-17",
+        "description": "Known for its spectacular meteor storms, with rates of up to 15 meteors per hour."
+    }
+]
